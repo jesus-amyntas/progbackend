@@ -17,4 +17,4 @@
 * mySQL
 * C#
 * C++
-* C [![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)](https://github.com/)
+* C 
